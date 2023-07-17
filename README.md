@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed M. Shehata
 - 👀 I’m interested in Programing & Data Analysis.
-- 🌱 I’m currently learning Advanced Software & Mobile Testing.
+- 🌱 I’m currently learning Machine Learning & AI.
 - 📫 
 
 <!---
